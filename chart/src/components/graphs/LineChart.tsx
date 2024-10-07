@@ -46,7 +46,7 @@ const LineChart: React.FC<LineChartProps> = ({
     Date: new Date(d.Date), // 문자열 날짜를 Date 객체로 변환
   }));
 
-  const [selectedEngCategory, setSelectedEngCategory] = useState<string>("");
+  const [___, setSelectedEngCategory] = useState<string>("");
 
   useEffect(() => {
     switch (selectedLine) {
