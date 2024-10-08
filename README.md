@@ -16,3 +16,8 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## ✨ 주요기능
+
+<img src="readme_assets/chart1.gif" width="600" />
+<img src="readme_assets/chart2.gif" width="600" />
+<img src="readme_assets/chart3.gif" width="600" />
+<img src="readme_assets/chart4.gif" width="600" />
